@@ -1,5 +1,6 @@
 # 🌿 Tea_Master 🌿 
 ---
-Group Members
-  Maheesha Liyanage
-  Gimhani Ahinsa
+### Team Members:
+
+- **Maheesha Liyanage**
+- **Gimhani Ahinsa**
